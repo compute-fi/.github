@@ -1,3 +1,4 @@
+![Welcome Image](1.jpg)
 DISCLAIMER: This is an ongoing project. Not all features are ready yet. There is a difference between the idea we want to build and what we have already build.
 
 # What is 'yield to compute'!
