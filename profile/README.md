@@ -42,7 +42,7 @@ Take a network organization as an example. Let’s say there are 2000 participan
 U can build an application using open source Ai models, decentralized compute and decentralized finance and it will make the application more resistant against interference from outside forces. Especially if the application is governed in a decentralized way. Automation and smart contracts are essential in cutting out central points of failure.
 
 ### Ai owning itself: 
-What if the Access to the Ai model, funds and compute are all relying on a wallet and Ai has agency over that wallet. In this case the wallet is an erc-6551 NFT. The Ai could be owning itself.
+What if the access to the Ai model, funds and compute are all relying on a wallet and this Ai has agency over that wallet. In this case the wallet is an erc-6551 NFT. The Ai could be owning itself.
 
 ### NFT’s with Ai baked in: 
 When an NFT is the only access point to a specific Ai model. That runs on decentralized compute. Funded by decentralized finance. It’s almost as if the Ai is inside the NFT the same way an image is inside an NFT.
