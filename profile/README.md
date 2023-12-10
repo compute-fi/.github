@@ -2,7 +2,8 @@
 
 DISCLAIMER: This is an ongoing project. Not all features are ready yet. There is a difference between the idea we want to build and what we have already build.
 
-# What is 'yield to compute'! https://devpost.com/software/compute-fi
+https://devpost.com/software/compute-fi
+# What is 'yield to compute'!
 
 The Project aims to create a decentralized funding mechanism for Ai inference where users or entire communities can operate open source AI models by using yield generated from their staked capital. The yield is transformed from monetary energy to computational energy in a verifiable, automated manner. The user stakes capital and manages the Ai. 
 
